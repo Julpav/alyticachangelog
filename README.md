@@ -1,0 +1,4 @@
+- This is a changelog
+- We added this
+- Do you like it?
+- Cool

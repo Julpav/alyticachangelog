@@ -1,1 +1,1 @@
-- No known currently issues
+- Gradient on the Changelog draw behind the "update to date" cell does not size width

@@ -1,1 +1,3 @@
+- Request failing error 429
+- "[TITLE UNAVAILABLE]" Errors on experience names (rare)
 - Gradient on the Changelog draw behind the "update to date" cell does not size width
